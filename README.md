@@ -1,4 +1,5 @@
 # TestDemo
-This is my first Git Repository
-Author Mayur Devare
+This is my first Git Repository.
+<br>
+Author-Mayur Devare
 
